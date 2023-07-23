@@ -1,10 +1,5 @@
-#include "LeopardWeb_GUI.h"
-#include <QtWidgets/QApplication>
-#include <sqlite3.h>
-#include "User.h"
-#include "Admin.h"
-#include "Instructor.h"
-#include "Student.h"
+#include "pch.h"
+
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
