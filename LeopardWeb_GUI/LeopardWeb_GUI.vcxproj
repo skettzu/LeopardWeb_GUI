@@ -60,10 +60,10 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\huangd8\source\repos\LeopardWeb_GUI\LeopardWeb_GUI;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\APC 2023\LeopardWeb_GUI\LeopardWeb_GUI</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>C:\Users\huangd8\source\repos\LeopardWeb_GUI\LeopardWeb_GUI</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\APC 2023\LeopardWeb_GUI\LeopardWeb_GUI</AdditionalLibraryDirectories>
       <AdditionalDependencies>sqlite3.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
